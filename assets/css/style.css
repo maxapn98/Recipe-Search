@@ -26,3 +26,15 @@
 .custom-toggler.navbar-toggler {
     border-color: rgb(217, 235, 233);
 }
+
+/*Hero*/
+.heroWrapper {
+    min-height: 32rem;
+    background: linear-gradient(90deg, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)),url("../img/herobackground.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.jumbotronWrapper {
+    background-color: rgba(68, 83, 94, 0.9);
+    color: white;
+}
