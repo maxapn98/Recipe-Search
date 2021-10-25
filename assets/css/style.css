@@ -38,3 +38,12 @@
     background-color: rgba(68, 83, 94, 0.9);
     color: white;
 }
+
+/*Additional Info*/
+.icon{
+   font-size: 2rem;
+}
+.additionalInfoWrapper {
+    min-height: 14rem;
+    background-color: #0e1821;
+}
