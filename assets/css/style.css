@@ -47,3 +47,26 @@
     min-height: 14rem;
     background-color: #0e1821;
 }
+*Recipe Section*/
+
+.searchDataWrapper {
+    min-height: 50rem;
+}
+
+.card {
+    max-width: 20rem;
+}
+/*Footer*/
+
+.footerWrapper {
+    background-color: #0e1821;
+}
+
+.footer-link {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #44535e;
+}
