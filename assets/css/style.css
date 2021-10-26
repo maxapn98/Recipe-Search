@@ -49,13 +49,12 @@
 }
 /*Recipe Section*/
 
-.searchDataWrapper {
-    min-height: 50rem;
-}
-
+.searchDataContainer {
+    min-height: 20rem;
+ }
 .card {
     max-width: 20rem;
-}
+ } 
 /*Footer*/
 
 .footerWrapper {
