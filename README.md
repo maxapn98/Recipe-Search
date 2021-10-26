@@ -79,6 +79,33 @@ database and find new interesting recipes to cook.
 
 ## Manual Testing
 
+### Testing List
+- Testing Responsiveness:
+ - [ ] Test viewing search page on mobile, tablet, and desktop.
+ - [ ] Test viewing contact page on mobile, tablet, and desktop.
+ - [ ] Test viewing about page on mobile, tablet, and desktop.
+- Testing Links:
+ - [ ] Test navigation links on search page.
+ - [ ] Test navigation links on contact page.
+ - [ ] Test navigation links on about page.
+- Test forms:
+ - [ ] Test submitting empty search input.
+
+### Testing Writeup
+
+### Testing Responsiveness
+* Every page was opened and viewed using Google Chrome development tool.
+ * Each page was viewed on different mobile, tablet and desktop displays.
+
+#### Testing Links
+* All navigation links on every page were double tested, making sure that none of them are broken
+ * Social network links use target="_blank" attribute to open a new page when clicked.
+
+#### Testing Forms:
+* All the forms in this project have a validation system.
+ * Submission with blank input is not allowed, message is displayed to inform the user that input section is empty.
+ * If api does not respond with data upon request message is
+
 ## Validation
 
 
