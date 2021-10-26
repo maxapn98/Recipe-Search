@@ -57,6 +57,26 @@ database and find new interesting recipes to cook.
         - form that has inputs: name, after name, email, text.
     - About Page:
         - main section containing information about the application.
+
+### Skeleton Plane
+
+- Application purpose should be easily seen from the information provided in the hero section.
+- Search page should be clear and easy to use without many obstructions.
+- About page should give more detailed information about the web application and how to use it.
+- Contact form should be easy to use with labeled inputs and example input placeholders.
+
+### Features List
+
+- [x] Responsive navigation bar.
+- [x] Responsive footer.
+- [x] Search page form input .
+- [x] Search page form validation, edge cases: no input, wrong input.
+- [x] Data loader on page load and on search.
+- [x] Dynamic content on search page using api data.
+- [ ] Contact page form.
+- [ ] Contact form validation.
+- [x] About page information.
+
 ## Manual Testing
 
 ## Validation
