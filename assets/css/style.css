@@ -1,4 +1,3 @@
-
 /*Nav*/
 .navWrapper {
     background: #0e1821;
@@ -31,9 +30,9 @@
 /*Hero*/
 .heroWrapper {
     min-height: 32rem;
-    background: -webkit-gradient(linear, left top, right top, from(rgba(57, 61, 61, 0.43)), to(rgba(14, 24, 33, 0.69))),url("../img/herobackground.jpg") center center no-repeat;
-    background: -o-linear-gradient(left, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)),url("../img/herobackground.jpg") center center no-repeat;
-    background: linear-gradient(90deg, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)),url("../img/herobackground.jpg") center center no-repeat;
+    background: -webkit-gradient(linear, left top, right top, from(rgba(57, 61, 61, 0.43)), to(rgba(14, 24, 33, 0.69))), url("../img/herobackground.jpg") center center no-repeat;
+    background: -o-linear-gradient(left, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)), url("../img/herobackground.jpg") center center no-repeat;
+    background: linear-gradient(90deg, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)), url("../img/herobackground.jpg") center center no-repeat;
     background-size: cover;
 }
 
@@ -43,23 +42,25 @@
 }
 
 /*Additional Info*/
-.icon{
-   font-size: 2rem;
+.icon {
+    font-size: 2rem;
 }
+
 .additionalInfoWrapper {
     min-height: 14rem;
     background-color: #0e1821;
 }
+
 /*Recipe Section*/
 
 .searchDataContainer {
     min-height: 20rem;
- }
+}
 
 .card {
     max-width: 20rem;
- } 
- 
+}
+
 /*Footer*/
 
 .footerWrapper {
@@ -78,14 +79,13 @@
 /* About Page */
 .aboutSectionWrapper {
     min-height: 40rem;
- }
+}
 
- /* Contact Page */
+/* Contact Page */
 .contactSectionWrapper {
     min-height: 40rem;
- }
- 
- .text-area {
+}
+
+.text-area {
     height: 150px;
- }
- 
+}
