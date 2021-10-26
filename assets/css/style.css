@@ -71,3 +71,9 @@
 .footer-link:hover {
     color: #44535e;
 }
+
+/* About Page */
+.aboutSectionWrapper {
+    min-height: 40rem;
+ }
+ 
