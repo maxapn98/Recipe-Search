@@ -86,9 +86,9 @@ database and find new interesting recipes to cook.
  - [ ] Test viewing contact page on mobile, tablet, and desktop.
  - [ ] Test viewing about page on mobile, tablet, and desktop.
 - Testing Links:
- - [ ] Test navigation links on search page.
- - [ ] Test navigation links on contact page.
- - [ ] Test navigation links on about page.
+ - [x] Test navigation links on search page.
+ - [x] Test navigation links on contact page.
+ - [x] Test navigation links on about page.
 - Test forms:
  - [ ] Test submitting empty search input.
 
@@ -101,6 +101,12 @@ database and find new interesting recipes to cook.
 #### Testing Links
 * All navigation links on every page were double tested, making sure that none of them are broken
  * Social network links use target="_blank" attribute to open a new page when clicked.
+
+![Wireframes](wireframes/nav-logo.png)
+
+![Wireframes](wireframes/nav-links.png)
+
+![Wireframes](wireframes/footer-links.png)
 
 #### Testing Forms:
 * All the forms in this project have a validation system.
