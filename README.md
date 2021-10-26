@@ -57,3 +57,37 @@ database and find new interesting recipes to cook.
         - form that has inputs: name, after name, email, text.
     - About Page:
         - main section containing information about the application.
+## Manual Testing
+
+## Validation
+
+
+## Deployment
+
+* This site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In the GitHub repository, navigate to the Settings tab.
+    * From the source section drop-down menu, select the Main Branch.
+    * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon
+      displayed to indicate the successful deployment.
+
+The live link can be found here - [link]()
+
+## Credits
+
+### Content
+
+* Guidance for "How to implement form validation?" was done with the help of
+  this [youtube video](https://www.youtube.com/watch?v=In0nB0ABaUk).
+* Guidance for "How to implement api call?" was done with the help of
+  this [youtube tutorial](https://www.youtube.com/watch?v=zayeU5AOsHI).
+* Guidance for HTML template element and JS interaction was done with the help of
+  this [youtube tutorial](https://www.youtube.com/watch?v=OSficvLDefM).
+
+### Media
+
+* Photos used in this site development were obtained from [Unsplash.com](https://unsplash.com/).
+
+### Technology
+
+* CSS library used in this project [Bootstrap.com](https://getbootstrap.com/).
+* API used for this project [Edamam.com](https://www.edamam.com/);
