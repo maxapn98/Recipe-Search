@@ -5,7 +5,6 @@ let searchForm = document.getElementById("searchForm");
 searchForm.addEventListener("submit", onSubmitHandler);
 
 
-
 async function onSubmitHandler(event){
     event.preventDefault();
     let searchInputValue = document.getElementById("search").value;
@@ -13,4 +12,3 @@ async function onSubmitHandler(event){
     let data = await response.json();
     console.log(data);
 };
-
