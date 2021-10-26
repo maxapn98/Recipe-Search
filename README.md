@@ -83,15 +83,15 @@ database and find new interesting recipes to cook.
 ### Testing List
 
 - Testing Responsiveness:
- - [ ] Test viewing search page on mobile, tablet, and desktop.
- - [ ] Test viewing contact page on mobile, tablet, and desktop.
- - [ ] Test viewing about page on mobile, tablet, and desktop.
+ - [x] Test viewing search page on mobile, tablet, and desktop.
+ - [x] Test viewing contact page on mobile, tablet, and desktop.
+ - [x] Test viewing about page on mobile, tablet, and desktop.
 
 - Testing Links:
  - [x] Test navigation links on search page.
  - [x] Test navigation links on contact page.
  - [x] Test navigation links on about page.
- 
+
 - Test forms:
  - [x] Test submitting empty search input.
  - [x] Test failed API request.
