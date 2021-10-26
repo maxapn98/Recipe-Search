@@ -79,3 +79,13 @@
 .aboutSectionWrapper {
     min-height: 40rem;
  }
+
+ /* Contact Page */
+.contactSectionWrapper {
+    min-height: 40rem;
+ }
+ 
+ .text-area {
+    height: 150px;
+ }
+ 
