@@ -81,16 +81,20 @@ database and find new interesting recipes to cook.
 ## Manual Testing
 
 ### Testing List
+
 - Testing Responsiveness:
  - [ ] Test viewing search page on mobile, tablet, and desktop.
  - [ ] Test viewing contact page on mobile, tablet, and desktop.
  - [ ] Test viewing about page on mobile, tablet, and desktop.
+
 - Testing Links:
  - [x] Test navigation links on search page.
  - [x] Test navigation links on contact page.
  - [x] Test navigation links on about page.
+ 
 - Test forms:
- - [ ] Test submitting empty search input.
+ - [x] Test submitting empty search input.
+ - [x] Test failed API request.
 
 ### Testing Writeup
 
@@ -113,6 +117,11 @@ database and find new interesting recipes to cook.
  * Submission with blank input is not allowed, message is displayed to inform the user that input section is empty.
  * If api does not respond with data upon request message is showed to the user infoming the user about it.
 
+![Wireframes](wireframes/empty-input.png)
+
+![Wireframes](wireframes/search-fail-api.png)
+
+![Wireframes](wireframes/api-fail-request.png)
 ## Validation
 
 * The HTML validation passes without errors.
