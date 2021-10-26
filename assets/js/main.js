@@ -51,7 +51,7 @@ function getRandomInt(max) {
     // Generate random int in range 0 to max
     return Math.floor(Math.random() * max);
 }
- 
+
 // On Input Search
 searchForm.addEventListener("submit", onSubmitHandler);
 
