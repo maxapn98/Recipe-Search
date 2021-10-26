@@ -4,6 +4,7 @@ This is a search recipe app that allows users to search for nutritious meals. Ap
 populate the website with recipes. Using the form that contains search bar users can easily query recipes from the API
 database and find new interesting recipes to cook.
 
+![Responsive](wireframes/im-i-resposive.png)
 ## UX
 
 ### Strategy
@@ -117,7 +118,7 @@ database and find new interesting recipes to cook.
     * Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon
       displayed to indicate the successful deployment.
 
-The live link can be found here - [link]()
+The live link can be found here - [link](https://maxapn98.github.io/Recipe/)
 
 ## Credits
 
