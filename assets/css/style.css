@@ -1,3 +1,4 @@
+
 /*Nav*/
 .navWrapper {
     background: #0e1821;
@@ -30,6 +31,8 @@
 /*Hero*/
 .heroWrapper {
     min-height: 32rem;
+    background: -webkit-gradient(linear, left top, right top, from(rgba(57, 61, 61, 0.43)), to(rgba(14, 24, 33, 0.69))),url("../img/herobackground.jpg") center center no-repeat;
+    background: -o-linear-gradient(left, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)),url("../img/herobackground.jpg") center center no-repeat;
     background: linear-gradient(90deg, rgba(57, 61, 61, 0.43), rgba(14, 24, 33, 0.69)),url("../img/herobackground.jpg") center center no-repeat;
     background-size: cover;
 }
@@ -76,4 +79,3 @@
 .aboutSectionWrapper {
     min-height: 40rem;
  }
- 
