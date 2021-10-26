@@ -105,10 +105,21 @@ database and find new interesting recipes to cook.
 #### Testing Forms:
 * All the forms in this project have a validation system.
  * Submission with blank input is not allowed, message is displayed to inform the user that input section is empty.
- * If api does not respond with data upon request message is
+ * If api does not respond with data upon request message is showed to the user infoming the user about it.
 
 ## Validation
 
+* The HTML validation passes without errors.
+![Wireframes](/wireframes/html-validation.png)
+
+* The CSS validation passes without errors.
+![Wireframes](/wireframes/css-validation.png)
+
+* CSS Autoprefixer.
+![Wireframes](/wireframes/autoprefixer-css.png)
+
+* No errors were found when passing through JSHint. 
+![Wireframes](/wireframes/javascripit-validation.png)
 
 ## Deployment
 
@@ -138,4 +149,4 @@ The live link can be found here - [link](https://maxapn98.github.io/Recipe/)
 ### Technology
 
 * CSS library used in this project [Bootstrap.com](https://getbootstrap.com/).
-* API used for this project [Edamam.com](https://www.edamam.com/);
+* API used for this project [Edamam.com](https://www.edamam.com/).
