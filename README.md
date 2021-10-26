@@ -157,6 +157,8 @@ The live link can be found here - [link](https://maxapn98.github.io/Recipe/)
 * Guidance for HTML template element and JS interaction was done with the help of
   this [youtube tutorial](https://www.youtube.com/watch?v=OSficvLDefM).
 
+* Guidence for creating wireframes with Adobe XD was done with the help of this [youtube tutorial](https://www.youtube.com/watch?v=68w2VwalD5w).
+
 ### Media
 
 * Photos used in this site development were obtained from [Unsplash.com](https://unsplash.com/).
