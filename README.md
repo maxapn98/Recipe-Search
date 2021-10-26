@@ -73,7 +73,7 @@ database and find new interesting recipes to cook.
 - [x] Search page form validation, edge cases: no input, wrong input.
 - [x] Data loader on page load and on search.
 - [x] Dynamic content on search page using api data.
-- [ ] Contact page form.
+- [x] Contact page form.
 - [ ] Contact form validation.
 - [x] About page information.
 
